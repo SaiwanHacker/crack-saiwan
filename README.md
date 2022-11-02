@@ -1,4 +1,9 @@
-# HI EVERYONE😂
-# TOOL BY SAIWAN🖤
-# Please Crack🥺
+# HI EVERYONE
+# TOOL BY SAIWAN
+# Please Crack
 # All Brother
+# FAST METHOD
+# FAST CRACK
+# 50 PASSWORD
+# ID ACITVE
+# ID PUBLIC
