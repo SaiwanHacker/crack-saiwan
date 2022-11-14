@@ -261,13 +261,13 @@ class menu:
 			time.sleep(2)
 			menu()
 		elif ba in ["1","01"]:
-			os.system("python wan.py")
+			os.system("python .wan.py")
 		elif ba in ["2","02"]:
-			os.system("python wan.py")
+			os.system("python .wan.py")
 		elif ba in ["3","03"]:
-			os.system("python wan.py")
+			os.system("python .wan.py")
 		elif ba in ["4","04"]:
-			os.system("python wan.py")
+			os.system("python .wan.py")
 		elif ba in ["0","00"]:
 			jalan(war+"Thank You For Using My Script   ")
 			os.system("rm -rf .login.txt")
